@@ -2,31 +2,41 @@
 Place the dll in your plugins folder.
 
 Emby Server Plugin Folder:
+
 The Emby Server plugin folder can generally be located in one of the following locations, depending on the server platform.
 
-Windows
+Windows:
+
 C:\Users\{user}\AppData\Roaming\Emby-Server\plugins
 
-macOS
+macOS:
+
 /Users/{user}/emby-server/plugins or /Users/{user}/.config/emby-server/plugins
 
-Android
+Android:
+
 /storage/emulated/0/Android/data/com.emby.embyserver/files/plugins
 
-Linux
+Linux:
+
 /var/lib/emby/plugins
 
-Asustor
+Asustor:
+
 /home/emby/plugins
 
-Synology
+Synology:
+
 /volume1/@appdata/EmbyServer/plugins
 
-QNAP
+QNAP:
+
 /share/CACHEDEV1_DATA/.qpkg/EmbyServer/programdata/plugins
 
-TerraMaster
+TerraMaster:
+
 /home/emby/plugins
 
-Western Digital
+Western Digital:
+
 /mnt/HD/HD_a2/emby/plugins
