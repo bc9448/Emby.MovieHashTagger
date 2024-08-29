@@ -1,7 +1,7 @@
 # Emby.MovieHashTagger
 Place the dll in your plugins folder.
 
-Emby Server Plugin Folder
+Emby Server Plugin Folder:
 The Emby Server plugin folder can generally be located in one of the following locations, depending on the server platform.
 
 Windows
