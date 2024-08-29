@@ -1,32 +1,32 @@
 # Emby.MovieHashTagger
-This plugin Tags movies based on #Hashtag in file name.
+Place the dll in your plugins folder.
 
-Emby Server Data Folder
-The Emby Server data folder can generally be located in one of the following locations, depending on the server platform. If your server is running, then The location can also be found on the Emby Server Dashboard by clicking the 3-dot menu, and then "Get Server Info".
+Emby Server Plugin Folder
+The Emby Server plugin folder can generally be located in one of the following locations, depending on the server platform.
 
 Windows
-C:\Users\{user}\AppData\Roaming\Emby-Server
+C:\Users\{user}\AppData\Roaming\Emby-Server\plugins
 
 macOS
-/Users/{user}/emby-server or /Users/{user}/.config/emby-server
+/Users/{user}/emby-server/plugins or /Users/{user}/.config/emby-server/plugins
 
 Android
-/storage/emulated/0/Android/data/com.emby.embyserver/files
+/storage/emulated/0/Android/data/com.emby.embyserver/files/plugins
 
 Linux
-/var/lib/emby
+/var/lib/emby/plugins
 
 Asustor
-/home/emby
+/home/emby/plugins
 
 Synology
-/volume1/@appdata/EmbyServer
+/volume1/@appdata/EmbyServer/plugins
 
 QNAP
-/share/CACHEDEV1_DATA/.qpkg/EmbyServer/programdata
+/share/CACHEDEV1_DATA/.qpkg/EmbyServer/programdata/plugins
 
 TerraMaster
-/home/emby
+/home/emby/plugins
 
 Western Digital
-/mnt/HD/HD_a2/emby
+/mnt/HD/HD_a2/emby/plugins
