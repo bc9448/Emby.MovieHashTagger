@@ -2,10 +2,10 @@
 Just drop the .dll into your server's plugins folder. Then restart the server.
 
 Emby Server Plugin Folder:
-The Emby Server plugin folder can generally be located in one of the following locations, depending on the server platform.
+Depending on the server platform, the Emby Server plugin folder can generally be located in one of the following locations.
 
 Windows:
-C:\Users\{user}\AppData\Roaming\Emby-Server\plugins
+C:\Users\{user}\AppData\Roaming\Emby-Server\system\plugins
 
 macOS:
 /Users/{user}/emby-server/plugins or /Users/{user}/.config/emby-server/plugins
