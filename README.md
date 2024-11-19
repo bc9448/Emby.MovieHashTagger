@@ -1,4 +1,7 @@
 # Emby.MovieHashTagger
+
+https://emby.media/community/index.php?/topic/131670-movie-hashtagger/
+
 Just drop the .dll into your server's plugins folder. Then restart the server.
 
 Emby Server Plugin Folder:
